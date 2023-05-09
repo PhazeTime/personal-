@@ -1,0 +1,31 @@
+Method for Investigating I-V Characteristics
+
+Set up the circuit, ensuring that all components with appropriate ratings for voltage, current, and power.
+Vary the voltage across the component by changing the resistance of the variable resistor, using a wide range of voltages (between 8-10 readings), ensuring that the voltage values are within the safe operating limits of the component and the circuit.
+Check the appropriate voltage reading on the voltmeter, confirming that the instrument is calibrated and accurate.
+For each voltage, record the value of the current from the ammeter three times, verifying that the instrument is connected in series and that the readings are stable and consistent before recording them.
+Calculate the average current for each voltage reading
+Increase the voltage further in steps of 0.5 V and repeat steps 2-5 for each new voltage.
+Allow for the circuit is switched off in between readings to prevent heating of the component and wires, and to allow time for the component to cool down before the next measurement.
+Reverse the terminals of the power supply to obtain readings for the negative voltage (and therefore negative current).
+Replace the fixed resistor with the filament lamp and repeat the experiment, making sure appropriate safety precautions are taken to prevent overheating and damage to the lamp and the circuit.
+Replace the filament lamp with the diode and repeat the experiment.
+
+
+
+
+Method for Investigating resistance of wires with respect to length [series circuit]
+
+
+
+
+Set up the apparatus by connecting two crocodile clips to a thin resistance wire at a distance of 10 cm apart, ensuring the wire is of uniform thickness and composition.
+Set the power supply to 1.5 V to establish a constant potential difference across the wire.
+Connect the wire, using the clips, to the rest of the circuit, ensuring that the ammeter is connected in series and the voltmeter is connected in parallel to the wire.
+Record the potential difference from the voltmeter and current from the ammeter at the initial clip distance of 10 cm.
+Move the clips in 10 cm intervals further apart, ensuring that the wire remains straight during each displacement.
+Take new measurements from the voltmeter and ammeter for each length reading, ensuring that the readings are stable and consistent before recording them.
+Repeat step 6 until the crocodile clips are a length of 1 m apart.
+Calculate the resistance of the wire at each clip distance using Ohm's law (R = V/I), ensuring that the voltage and current values are within the range of the measuring instruments used.
+Plot a graph of the resistance of the wire against the clip distance, ensuring that the axes are labelled with appropriate units and a suitable scale.
+Analyze the relationship between the resistance and length of the wire using the graph, drawing conclusions and identifying any trends or patterns observed.
